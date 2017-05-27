@@ -1,0 +1,4 @@
+review_count,business_id,name,city,state,latitude,longitude,stars ,category
+6,HsWKwDyC_Q8Zab9DH3iQpQ,Eddy OB/GYN,Chandler,AZ,33.30081558,-111.8752365,4, 'Obstetricians & Gynecologists'
+9,Brqd8fYuXPQetrw-uAzFrA,Eastover OB/GYN,Charlotte,NC,35.2065239,-80.83883667,4.5, 'Obstetricians & Gynecologists'
+10,oKbuHkJREZArkzPxMi4Wg,Phoenix Perinatal Associates,Phoenix,AZ,33.49248123,-112.064537,3, 'Obstetricians & Gynecologists'

@@ -1,0 +1,4 @@
+review_count,business_id,name,city,state,latitude,longitude,stars ,category
+4,74LU6K2ro5AQXKT0Jf0SPw,Allure Cosmetic Laser Center,Las Vegas,NV,36.19733047,-115.2792664,4, 'Skin Care'
+3,73UQ8yDPP_vAkSoc1gyJUw,Aesthetic Skin & Laser Center,Pittsburgh,PA,40.46598434,-79.95262909,2.5, 'Skin Care'
+6,6JIB1dfQYNe1Y9Cvz5Vdtw,"Mehdi K. Mazaheri, MD",Scottsdale,AZ,33.52012634,-111.9246292,5, 'Skin Care'

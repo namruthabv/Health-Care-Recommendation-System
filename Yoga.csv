@@ -1,0 +1,3 @@
+review_count,business_id,name,city,state,latitude,longitude,stars ,category
+23,3EuEKK7jlcVwhU_4D7Kmkw,The Yoga Oasis,Charlotte,NC,35.19850159,-80.8526535,4, 'Yoga'
+6,6GBhaDFemq_0-7Fo-9-O2A,The Back Rub Company,Scottsdale,AZ,33.61439514,-111.9119339,4.5, 'Yoga'

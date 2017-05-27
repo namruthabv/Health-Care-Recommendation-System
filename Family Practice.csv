@@ -1,0 +1,7 @@
+review_count,business_id,name,city,state,latitude,longitude,stars ,category
+3,DtQihtkCulMCzlPzhYP4ag,"Ronald G Kong, MD",Las Vegas,NV,36.16532135,-115.1713562,3, 'Family Practice'
+3,4ubjy-4N9D4sEPnoSA4pUA,Matthews Family Physicians,Matthews,NC,35.120224,-80.71401978,2.5, 'Family Practice'
+4,mwjuMk4F44DZOtJvHSRLw,Cornerstone Family Medicine,Mesa,AZ,33.39340591,-111.7326813,4.5, 'Family Practice'
+4,24lIOCW1RCLAJUOyzs_gnQ,"Gemeinschaftspraxis mit Dr. med. Eberhard Klenk, Dr. med. Pinar",Stuttgart,BW,48.77149963,9.161029816,3, 'Family Practice'
+5,7jhZtZjKc-uKOWsC8z7r3Q,"Christine Tymczyna, DO",Tempe,AZ,33.383255,-111.9270477,5, 'Family Practice'
+7,6soO5TcIigL6DI44iSo3YA,Integrative Health Institute,Toronto,ON,43.65097046,-79.36825562,4.5, 'Family Practice'
